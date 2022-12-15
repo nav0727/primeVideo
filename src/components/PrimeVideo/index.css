@@ -1,0 +1,11 @@
+.movie-container {
+  background-color: #000;
+  padding: 20px 10vw 5vw 10vw;
+  color: #fff;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin-bottom: 32px;
+}
+.logo {
+  height: 170px;
+  width: 100vw;
+}

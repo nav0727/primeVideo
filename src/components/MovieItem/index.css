@@ -1,0 +1,20 @@
+.pop-con {
+  display: flex;
+  flex-direction: column;
+  padding: 30px;
+  border-top-right-radius: 180px;
+  border-bottom-left-radius: 180px;
+  background-color: aqua;
+}
+.close-btn {
+  text-align: right;
+  padding: 10px;
+  font-size: 20px;
+  font-weight: bold;
+
+  color: goldenrod;
+}
+h5 {
+  text-align: center;
+  color: #091d8a;
+}
